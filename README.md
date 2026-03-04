@@ -205,7 +205,7 @@ These findings demonstrate that wars often generate **inflationary pressure thro
 ---
 
 ## Financial Cost of War
-<img width="625" height="392" alt="Insight two" src="https://github.com/user-attachments/assets/75913c65-1050-4bba-9761-dd79590d92a6" />
+<img width="541" height="388" alt="Insight two" src="https://github.com/user-attachments/assets/f22bae0a-2aa5-4a78-beff-e3e05c1bae67" />
 <img width="661" height="371" alt="page 2" src="https://github.com/user-attachments/assets/f0acd250-e505-4429-998d-589b6d6c7b7e" />
 
 The financial cost of war includes military spending, destroyed infrastructure, humanitarian aid, and reconstruction requirements.

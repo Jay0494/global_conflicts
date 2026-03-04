@@ -178,6 +178,7 @@ This enables quick identification of conflicts with the highest inflationary imp
 
 ## Economic Damage Ranking (GDP Impact)
 <img width="550" height="377" alt="insight four" src="https://github.com/user-attachments/assets/04cd3e8e-48f7-4151-866d-8e49485ff8c4" />
+<img width="650" height="371" alt="page 4" src="https://github.com/user-attachments/assets/927e0a6f-d779-415d-af28-fecac0f6b035" />
 
 GDP contraction is one of the most direct indicators of wartime economic damage. The analysis reveals that conflicts involving large-scale infrastructure destruction tend to produce the deepest GDP declines.
 
@@ -191,6 +192,7 @@ These results highlight that wars fought within national territories often produ
 
 ## Inflation Spikes During War
 <img width="633" height="370" alt="insight three" src="https://github.com/user-attachments/assets/3bc61164-f7ae-4da8-b30c-8288a1826120" />
+<img width="653" height="370" alt="page 3" src="https://github.com/user-attachments/assets/d4c17dbf-9a9e-4919-a123-a48daf789bdc" />
 
 Inflation frequently rises during wartime due to supply shortages, currency depreciation, and increased government spending on military operations.
 
@@ -204,6 +206,7 @@ These findings demonstrate that wars often generate **inflationary pressure thro
 
 ## Financial Cost of War
 <img width="625" height="392" alt="Insight two" src="https://github.com/user-attachments/assets/75913c65-1050-4bba-9761-dd79590d92a6" />
+<img width="661" height="371" alt="page 2" src="https://github.com/user-attachments/assets/f0acd250-e505-4429-998d-589b6d6c7b7e" />
 
 The financial cost of war includes military spending, destroyed infrastructure, humanitarian aid, and reconstruction requirements.
 
@@ -215,6 +218,7 @@ These costs often extend beyond the duration of the conflict, creating long-term
 
 ## Unemployment Shock During Conflict
 <img width="653" height="419" alt="Insight one" src="https://github.com/user-attachments/assets/994ccedb-b8df-47c8-9e1e-1c9579b82f51" />
+<img width="661" height="368" alt="page 1" src="https://github.com/user-attachments/assets/12627531-ee40-44aa-bd97-a1f1aa2d1c6f" />
 
 Labour markets are highly sensitive to wartime disruptions. Businesses shut down, industries collapse, and workforce displacement becomes widespread.
 

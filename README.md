@@ -177,6 +177,7 @@ This enables quick identification of conflicts with the highest inflationary imp
 # Key Analytical Insights
 
 ## Economic Damage Ranking (GDP Impact)
+<img width="550" height="377" alt="insight four" src="https://github.com/user-attachments/assets/04cd3e8e-48f7-4151-866d-8e49485ff8c4" />
 
 GDP contraction is one of the most direct indicators of wartime economic damage. The analysis reveals that conflicts involving large-scale infrastructure destruction tend to produce the deepest GDP declines.
 
@@ -189,6 +190,7 @@ These results highlight that wars fought within national territories often produ
 ---
 
 ## Inflation Spikes During War
+<img width="633" height="370" alt="insight three" src="https://github.com/user-attachments/assets/3bc61164-f7ae-4da8-b30c-8288a1826120" />
 
 Inflation frequently rises during wartime due to supply shortages, currency depreciation, and increased government spending on military operations.
 
@@ -201,6 +203,7 @@ These findings demonstrate that wars often generate **inflationary pressure thro
 ---
 
 ## Financial Cost of War
+<img width="625" height="392" alt="Insight two" src="https://github.com/user-attachments/assets/75913c65-1050-4bba-9761-dd79590d92a6" />
 
 The financial cost of war includes military spending, destroyed infrastructure, humanitarian aid, and reconstruction requirements.
 
@@ -211,6 +214,7 @@ These costs often extend beyond the duration of the conflict, creating long-term
 ---
 
 ## Unemployment Shock During Conflict
+<img width="653" height="419" alt="Insight one" src="https://github.com/user-attachments/assets/994ccedb-b8df-47c8-9e1e-1c9579b82f51" />
 
 Labour markets are highly sensitive to wartime disruptions. Businesses shut down, industries collapse, and workforce displacement becomes widespread.
 
